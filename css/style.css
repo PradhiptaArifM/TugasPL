@@ -1,0 +1,16 @@
+body{
+	background: grey;
+}
+
+.rounded-circle{
+	width: 200px;
+	height: 200px;
+}
+
+.img{
+	text-align: center;
+}
+
+.container{
+	margin-bottom: 20px;
+}
